@@ -1,3 +1,6 @@
+# synced-from: internal/clara-books-mvp/.github/workflows/cliq-notify.yml
+# This is a bundled MIRROR of the canonical workflow. Do not edit by hand.
+# Refresh with: scripts/sync-template.sh --update   (check drift: --check)
 name: Cliq Notifications
 
 # Posts GitHub events into a Zoho Cliq channel.
